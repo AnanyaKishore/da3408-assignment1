@@ -79,12 +79,12 @@ At `http://localhost:5000`, under **Experiments**, you will see `mnist-mlp`. Cli
 
 Navigate to `question_3/` to view the artifacts and the commits corresponding to the DVC initialisation, adding the S3 remote, and creating versions 1 and 2 of `dataset.csv`. 
 
-**It is an experiment run entirely on the terminal**. The commits corresponding to this experiment, committed on **August 29, 2026**, are:
+**It is an experiment run entirely on the terminal**. The commits corresponding to this experiment, committed on **August 30, 2026**, are:
 
-- [`ac0b945`](https://github.com/AnanyaKishore/da3408-assignment1/commit/ac0b945) *initialise dvc for question_3/*
-- [`210fef4`](https://github.com/AnanyaKishore/da3408-assignment1/commit/210fef4) *added dataset v1.0, 1800 images, 1801 lines*
-- [`8ba0262`](https://github.com/AnanyaKishore/da3408-assignment1/commit/8ba0262) *added s3 remote for question_3/*
-- [`e11a081`](https://github.com/AnanyaKishore/da3408-assignment1/commit/e11a081) *added dataset.csv v2.0, 2800 images, 2801 lines*
+- [`d4aa1a3`](https://github.com/AnanyaKishore/da3408-assignment1/commit/d4aa1a3) *initialise dvc for question_3/*
+- [`3bd4e89`](https://github.com/AnanyaKishore/da3408-assignment1/commit/3bd4e89) *added dataset v1.0, 1800 images, 1801 lines*
+- [`e67746c`](https://github.com/AnanyaKishore/da3408-assignment1/commit/e67746c) *added s3 remote for question_3/*
+- [`5210bc6`](https://github.com/AnanyaKishore/da3408-assignment1/commit/5210bc6) *added dataset.csv v2.0, 2800 images, 2801 lines*
 
 The tags `v1.0` and `v2.0` can be found under the **Tags** dropdown:
 
